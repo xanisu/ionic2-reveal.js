@@ -10,5 +10,5 @@ npm i
 ionic serve
 ```
 
-##issues to solve
+## issues
 Once you leave the reveal page, it won't load again. 
